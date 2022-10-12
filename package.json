@@ -1,0 +1,23 @@
+{
+  "name": "knock-knock",
+  "version": "1.0.0",
+  "description": "A user authentication system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexfordnana/knock-knock.git"
+  },
+  "keywords": [
+    "authenticate",
+    "users"
+  ],
+  "author": "rexfordnana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rexfordnana/knock-knock/issues"
+  },
+  "homepage": "https://github.com/rexfordnana/knock-knock#readme"
+}
